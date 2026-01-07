@@ -1,0 +1,15 @@
+{
+  "label_mode": "binary",
+  "epochs": 5,
+  "batch_size": 128,
+  "lr": 0.0003,
+  "weight_decay": 0.0005,
+  "label_smoothing": 0.1,
+  "dropout": 0.4,
+  "seed": 42,
+  "max_samples": null,
+  "balance": true,
+  "num_classes": 2,
+  "backbone": "resnet34",
+  "freeze_backbone": true
+}

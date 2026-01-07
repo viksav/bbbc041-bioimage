@@ -1,0 +1,2 @@
+dataset,accuracy,macro_f1,balanced_accuracy,num_samples
+NIH_Malaria_Cell_Images,0.6452,0.5951,0.6452,27558
