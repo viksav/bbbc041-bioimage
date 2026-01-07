@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-EE4C2C?logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-optional-76B900?logo=nvidia&logoColor=white) ![Tests](https://img.shields.io/badge/tests-pytest-blue)
 
-This repo is a one-day, reproducible baseline for bioimage classification using the Broad Bioimage Benchmark Collection (BBBC041). It turns object annotations into per-cell crops and trains a transfer-learning CNN with clear metrics, embeddings, and Grad-CAMs.
+This repo is a reproducible baseline for bioimage classification using the Broad Bioimage Benchmark Collection (BBBC041). It turns object annotations into per-cell crops and trains a transfer-learning CNN with clear metrics, embeddings, and Grad-CAMs.
 
 Project highlights: Transfer-learning ResNet-34 on BBBC041 with reproducible splits, interpretability (UMAP + Grad-CAM), and external validation on NIH malaria images.
 
