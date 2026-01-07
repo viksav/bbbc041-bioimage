@@ -177,5 +177,3 @@ reports/             # metrics tables and figures
 ## Notes
 
 - Default run uses the full dataset. For a fast smoke test, pass `--max-samples 2000` to train/eval.
-- All splits are reproducible via seed.
-- Raw data and model checkpoints are not committed to keep the repo lightweight.
